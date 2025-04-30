@@ -212,17 +212,6 @@ docker pull saisrinivas194/wine-prediction
    - Verified data mounting
    - Tested environment variables
 
-## Future Improvements
-
-1. **Model Enhancement**
-   - Try different ML algorithms
-   - Implement hyperparameter tuning
-   - Add feature engineering
-
-2. **Application Enhancement**
-   - Add REST API
-   - Implement batch processing
-   - Add monitoring and logging
 
 3. **Container Enhancement**
    - Optimize image size
