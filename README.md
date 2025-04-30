@@ -46,7 +46,7 @@ The project uses three datasets:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wine-prediction.git
+   git clone https://github.com/saisrinivas194/CS_643-wine-quality-prediction
    cd wine-prediction
    ```
 
@@ -101,7 +101,7 @@ The model achieves an RMSE of 0.5515 on the validation dataset, indicating good 
 
 ## Docker Hub
 
-The Docker image is available at: [saisrinivas194/wine-prediction](https://hub.docker.com/r/saisrinivas194/wine-prediction)
+The Docker image is available at: [saisrinivas194/wine-prediction](https://hub.docker.com/repository/docker/saisrinivas194/wine-prediction/general)
 
 You can pull the image using:
 ```bash
